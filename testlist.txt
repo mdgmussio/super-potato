@@ -8,4 +8,4 @@
 # [aftrk3.com]
 127.0.0.1 track.aftrk3.com
 127.0.0.1 aftrk3.com
-127.0.0.1 https://fgn.cdn.serverable.com/common/images/n0cvd19n0fun/HornyVilla_336x768_Ivory.gif
+127.0.0.1 https://fgn.cdn.serverable.com/common/images/n0cvd19n0fun/*
