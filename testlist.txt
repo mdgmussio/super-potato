@@ -1,0 +1,10 @@
+
+
+# [163.com]
+127.0.0.1 analytics.163.com
+127.0.0.1 crash.163.com
+
+
+# [aftrk3.com]
+127.0.0.1 track.aftrk3.com
+127.0.0.1 aftrk3.com
